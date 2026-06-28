@@ -1,2 +1,7 @@
 # coord-cascade-demo
-Shows how drought signals cascade through Kenya's coordination infrastructure — drought → insurance + health + agriculture alerts
+
+Demonstration of Kenya's coordination cascade infrastructure.
+
+Live: https://coord-cascade.streamlit.app
+
+`pip install africa-coord-bus`
