@@ -5,9 +5,9 @@ flow through East Africa's coordination infrastructure.
 Problem: A drought alert from wapimaji-mcp currently reaches no one else.
          This tool shows what should happen when coordination is connected.
 """
-import streamlit as st
-import json
 from datetime import datetime
+
+import streamlit as st
 
 st.set_page_config(
     page_title="Kenya Coordination Cascade",
