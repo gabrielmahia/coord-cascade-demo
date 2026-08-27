@@ -1,0 +1,14 @@
+name: CI
+on: [push, pull_request]
+jobs:
+  lint-test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.11" }
+      - run: pip install --upgrade pip ruff==0.16.4
+      - run: pip install -r requirements.txt
+      - run: ruff check .
+      # The demo has no test suite; verify it at least parses and imports cleanly.
+      - run: python -c "import ast; ast.parse(open('app.py').read()); print('app.py parses')"
