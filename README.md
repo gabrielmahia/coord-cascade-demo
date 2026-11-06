@@ -16,3 +16,7 @@ Live: https://coord-cascade.streamlit.app
 
 Model-agnostic by design: closed APIs, open-weight models, and small distilled models are all first-class citizens.
 <!-- /interconnect:v1 -->
+
+## IP & Collaboration
+
+Licensed under [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/). This is source-available, not open source: you may share it unchanged, with attribution, for non-commercial purposes. Modified versions may not be distributed under this licence. Commercial use, modification, redistribution and partnerships need written permission: contact@aikungfu.dev. Third-party material keeps its own licence.
