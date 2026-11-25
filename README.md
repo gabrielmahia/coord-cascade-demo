@@ -19,4 +19,4 @@ Model-agnostic by design: closed APIs, open-weight models, and small distilled m
 
 ## IP & Collaboration
 
-Licensed under [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/). This is source-available, not open source: you may share it unchanged, with attribution, for non-commercial purposes. Modified versions may not be distributed under this licence. Commercial use, modification, redistribution and partnerships need written permission: contact@aikungfu.dev. Third-party material keeps its own licence.
+Licensed under [MIT](LICENSE): free to use, modify and redistribute, including commercially, as long as the copyright notice and licence text are kept. Please credit Gabriel Mahia and link back to this repository. Partnerships: contact@aikungfu.dev. Third-party material keeps its own licence.
